@@ -29,7 +29,8 @@ namespace ManteiBank
                     case "987654321":
                         Console.WriteLine("\nYou have gained access!\n");
                         do
-                        {
+                        
+                        
 
                             Console.WriteLine("Enter your PIN: \n");
                             string PIN = Console.ReadLine();
